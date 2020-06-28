@@ -1,2 +1,2 @@
 # ValeriaGDR.github.io
-Portfolio - Architect Designer &amp; Web Developer Jr
+Portfolio - Web Developer Jr &amp; Architect Designer
